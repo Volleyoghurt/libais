@@ -5,7 +5,7 @@
 # cmake .
 # make
 
-cmake_minimum_required(VERSION 3.25)
+cmake_minimum_required(VERSION 3.16)
 project (
   libais
   DESCRIPTION "A library for parsing Automatic Identification System messages."
